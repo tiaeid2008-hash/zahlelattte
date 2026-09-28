@@ -1,0 +1,6 @@
+{
+  "name": "Zahlelatte | مقهى القهوة المختصة في زحلة",
+  "description": "الموقع الرسمي لمقهى Zahlelatte في مدينة زحلة، لبنان. تجربة قهوة مختصة، نصوص تسويقية لبنانية دافئة، وقائمة مشروبات ومخبوزات متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
